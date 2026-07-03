@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
