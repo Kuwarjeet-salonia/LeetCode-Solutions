@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
