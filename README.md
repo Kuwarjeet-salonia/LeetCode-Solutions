@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
