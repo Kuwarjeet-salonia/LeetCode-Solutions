@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [2396-strictly-palindromic-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Kuwarjeet-salonia/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
